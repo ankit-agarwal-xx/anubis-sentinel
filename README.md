@@ -1,4 +1,4 @@
-<img src="anubis-fe/src/assets/Anubis-Sen.svg" alt="Anubis Logo" width="50" align="left" />
+<img src="anubis-fe/src/assets/Anubis-Sen.svg" alt="Anubis Logo" width="50" height="30" align="left" />
 
 # Anubis Sentinel
 
