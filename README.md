@@ -13,8 +13,6 @@ Anubis Sentinel is a comprehensive red teaming solution designed to enhance secu
   - [Front-end Setup](#front-end-setup)
 - [Usage Guide](#usage-guide)
 - [Tech Stack](#tech-stack)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -140,22 +138,3 @@ anubis/
 
 ## Screenshots
 [Screenshot of the Streamlit-based RAG interface]
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork this repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add feature description"
-   ```
-4. Push to your branch and create a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
