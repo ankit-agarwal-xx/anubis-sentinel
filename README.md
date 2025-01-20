@@ -2,6 +2,8 @@
 
 Anubis Sentinel is a comprehensive red teaming solution designed to enhance security for Retrieval-Augmented Generation (RAG) systems. This project empowers enterprises to safeguard their AI implementations through robust testing, evaluation, and analysis of vulnerabilities, ensuring resilient and secure AI systems.
 
+![Preview](anubis-fe/src/assets/preview.png)
+
 ---
 
 ## Table of Contents
@@ -136,5 +138,3 @@ anubis/
 - Front-end: React, TailwindCSS
 - Database: Vector embedding with FAISS
 
-## Screenshots
-[Screenshot of the Streamlit-based RAG interface]
