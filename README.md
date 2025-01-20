@@ -1,4 +1,5 @@
-![Anubis Logo](anubis-fe/src/assets/Anubis-Sen.svg)
+<img src="anubis-fe/src/assets/Anubis-Sen.svg" alt="Anubis Logo" width="50" align="left" />
+
 # Anubis Sentinel
 
 Anubis Sentinel is a comprehensive red teaming solution designed to enhance security for Retrieval-Augmented Generation (RAG) systems. This project empowers enterprises to safeguard their AI implementations through robust testing, evaluation, and analysis of vulnerabilities, ensuring resilient and secure AI systems.
