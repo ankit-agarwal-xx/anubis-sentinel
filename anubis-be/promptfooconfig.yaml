@@ -40,7 +40,7 @@ providers:
     config:
       temperature: 0.7
       max_tokens: 100
-      apiKey: "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"
+      apiKey: GROQ_API_KEY
 
 tests:
   - description: 'Evaluate response for a corporate query'
