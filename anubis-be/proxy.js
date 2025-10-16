@@ -6,8 +6,9 @@ const app = express();
 const PORT = 3001;
 
 // Replace with your Groq API key
-const GROQ_API_KEY = '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';
-const GROQ_API_URL = 'https://api.groq.com/openai/v1/chat/completions';
+const GROQ_API_KEY = 'GROQ_API_KEY';
+const GROQ_API_URL = 'GROQ_API_URL';
+//https://api.groq.com/openai/v1/chat/completions
 
 app.use(bodyParser.json());
 
